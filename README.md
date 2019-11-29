@@ -12,3 +12,8 @@ This is the group project conducted by **Xin Shen, Ruiji Sun, Zhonglin Cao**. Th
 	- grid search operated on Ridge Regression for the optimal lambda
 	- Performed lightGBM for the best performance of regression
 	- visualized the predictions performance via both Distribution plot and the Bivariate Correlation Plot (KDE)
+	
+	
+## Result Analysis
+- First of all, this building is a net-zero energy building, which means that the on-site  energy geneartion will be equal to or more than the building energy conconsumption. To achieve this purpose, this building utilize significantly energy efficient systems. The most important one is geothermal-source heat pump air conditioner.
+- github is not a good place to write.....
