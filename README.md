@@ -4,3 +4,11 @@ This is the group project conducted by **Xin Shen, Ruiji Sun, Zhonglin Cao**. Th
 - Feature correlation study
 - Liner Regression on time series
 - Multi-feature prediction with Boosting Algorithm
+
+## November 29th Update
+- Cleaned up the raw data
+- Created a model selection script to perform:
+	- data fine- processing by Pandas and timeseries manipulation (ordinal transformation)
+	- grid search operated on Ridge Regression for the optimal lambda
+	- Performed lightGBM for the best performance of regression
+	- visualized the predictions performance via both Distribution plot and the Bivariate Correlation Plot (KDE)
